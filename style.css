@@ -1,0 +1,156 @@
+.pagetitle {
+    margin-left: 1em;
+}
+
+h1 {
+    font-family: Poppins;
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1em;
+    font-family: "Fjalla One";
+}
+
+.colors {
+    border: solid 2px black;
+    display: flex;
+    overflow-wrap:normal;
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+    padding: 1em;
+    margin: 2em;
+    flex-wrap: wrap;
+    margin-right: 5em;
+    margin-left: 5em;
+  
+}
+
+.colorstitle {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 5em;
+    
+}
+
+
+.orange {
+    background-color: #FFA545;
+    width: 7em;
+    height: 9em;
+    text-align: center;
+    font-family: Poppins;
+    margin: 3em;
+    padding: 1em;
+}
+
+.firebrick {
+    background-color: #B22222;
+    width: 7em;
+    height: 9em;
+    text-align: center;
+    font-family: Poppins;
+    margin: 3em;
+    padding: 1em;
+}
+
+.midnightblue {
+    background-color: #191970;
+    color: white;
+    width: 7em;
+    height: 9em;
+    justify-content: center;
+    font-family: Poppins;
+    margin: 3em;
+    padding: 1em;
+
+}
+
+.khaki {
+    background-color: #F0E68C;
+    width: 7em;
+    height: 9em;
+    text-align: center;
+    font-family: Poppins;
+    margin: 3em;
+    padding: 1em;
+}
+
+.fontstitle {
+    margin-right: 0.5em;
+}
+
+.fonts-container {
+    border: solid 2px black;
+    display: flex;
+    overflow-wrap: normal;
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+    padding: 1em;
+    margin: 2em;
+    margin-left: 5em;
+    margin-right: 5em;
+  
+
+}
+
+.font-panel {
+    padding: 1em;
+}
+
+.font-label-poppins {
+    font-family: Poppins;
+    font-size: 1.5em;
+
+}
+
+.font-label-square-peg {
+    font-family: "Square Peg";
+    font-size: 2em;
+    margin-top: 0.5em;
+}
+
+.font-label-fjalla-one {
+    font-family: "Fjalla One";
+    font-size: 1.5em;
+
+}
+
+.regular-poppins, .bold-poppins, .italic-poppins {
+    font-family: Poppins;
+    font-size: 1em;
+}
+
+.regular-square-peg, .bold-square-peg, .italic-square-peg {
+    font-family: "Square Peg";
+    font-size: 1.8em;
+    line-height: 10px;
+    
+}
+
+.regular-fjalla-one, .bold-fjalla-one, .italic-fjalla-one {
+    font-family: "Fjalla One";
+    font-size: 1.1em;
+    line-height: 25px;
+}
+
+.text-styles-container {
+    border: solid 2px black;
+    padding: 1em;
+    margin: 2em;
+    margin-right: 5em;
+    margin-left: 5em;
+
+}
+
+.paragraph-text {
+    font-family: "Fjalla One";
+}
+
+.text-title {
+    margin-top: 0;
+}
+
+
